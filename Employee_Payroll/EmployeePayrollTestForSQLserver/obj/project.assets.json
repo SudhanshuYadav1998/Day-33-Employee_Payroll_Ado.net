@@ -6794,11 +6794,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\RFP\\C_sharp\\Employee_Payroll\\EmployeePayrollTestForSQLserver\\EmployeePayrollTestForSQLserver.csproj",
+      "projectUniqueName": "C:\\RFP\\C_sharp\\Day-33-Assignments\\Employee_Payroll\\EmployeePayrollTestForSQLserver\\EmployeePayrollTestForSQLserver.csproj",
       "projectName": "EmployeePayrollTestForSQLserver",
-      "projectPath": "C:\\RFP\\C_sharp\\Employee_Payroll\\EmployeePayrollTestForSQLserver\\EmployeePayrollTestForSQLserver.csproj",
+      "projectPath": "C:\\RFP\\C_sharp\\Day-33-Assignments\\Employee_Payroll\\EmployeePayrollTestForSQLserver\\EmployeePayrollTestForSQLserver.csproj",
       "packagesPath": "C:\\Users\\Sudhanshu\\.nuget\\packages\\",
-      "outputPath": "C:\\RFP\\C_sharp\\Employee_Payroll\\EmployeePayrollTestForSQLserver\\obj\\",
+      "outputPath": "C:\\RFP\\C_sharp\\Day-33-Assignments\\Employee_Payroll\\EmployeePayrollTestForSQLserver\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sudhanshu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6815,8 +6815,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\RFP\\C_sharp\\Employee_Payroll\\Employee_Payroll\\Employee_Payroll.csproj": {
-              "projectPath": "C:\\RFP\\C_sharp\\Employee_Payroll\\Employee_Payroll\\Employee_Payroll.csproj"
+            "C:\\RFP\\C_sharp\\Day-33-Assignments\\Employee_Payroll\\Employee_Payroll\\Employee_Payroll.csproj": {
+              "projectPath": "C:\\RFP\\C_sharp\\Day-33-Assignments\\Employee_Payroll\\Employee_Payroll\\Employee_Payroll.csproj"
             }
           }
         }
