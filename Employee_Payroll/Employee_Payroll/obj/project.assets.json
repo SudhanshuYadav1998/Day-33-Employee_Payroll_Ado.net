@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\RFP\\C_sharp\\Employee_Payroll\\Employee_Payroll\\Employee_Payroll.csproj",
+      "projectUniqueName": "C:\\RFP\\C_sharp\\Day-33-Assignments\\Employee_Payroll\\Employee_Payroll\\Employee_Payroll.csproj",
       "projectName": "Employee_Payroll",
-      "projectPath": "C:\\RFP\\C_sharp\\Employee_Payroll\\Employee_Payroll\\Employee_Payroll.csproj",
+      "projectPath": "C:\\RFP\\C_sharp\\Day-33-Assignments\\Employee_Payroll\\Employee_Payroll\\Employee_Payroll.csproj",
       "packagesPath": "C:\\Users\\Sudhanshu\\.nuget\\packages\\",
-      "outputPath": "C:\\RFP\\C_sharp\\Employee_Payroll\\Employee_Payroll\\obj\\",
+      "outputPath": "C:\\RFP\\C_sharp\\Day-33-Assignments\\Employee_Payroll\\Employee_Payroll\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sudhanshu\\AppData\\Roaming\\NuGet\\NuGet.Config",
